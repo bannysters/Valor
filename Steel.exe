@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Document Version="2">
+    <Protection InputFileName="Steel.exe" Options="1023944" WaterMarkName="made by bannisters">
+        <Messages />
+        <Folders />
+        <Procedures>
+            <Procedure MapAddress="EntryPoint" Options="0" CompilationType="2" />
+        </Procedures>
+        <Objects />
+    </Protection>
+    <DLLBox>
+        <Folders />
+    </DLLBox>
+    <Script />
+    <LicenseManager />
+</Document>
